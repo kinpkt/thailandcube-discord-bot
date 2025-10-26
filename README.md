@@ -1,0 +1,1 @@
+# ThailandCube Discord Bot
